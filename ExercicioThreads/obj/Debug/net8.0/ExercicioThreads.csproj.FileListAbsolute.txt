@@ -1,0 +1,14 @@
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\bin\Debug\net8.0\ExercicioThreads.exe
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\bin\Debug\net8.0\ExercicioThreads.deps.json
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\bin\Debug\net8.0\ExercicioThreads.runtimeconfig.json
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\bin\Debug\net8.0\ExercicioThreads.dll
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\bin\Debug\net8.0\ExercicioThreads.pdb
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.AssemblyInfo.cs
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.dll
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\refint\ExercicioThreads.dll
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.pdb
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ExercicioThreads.genruntimeconfig.cache
+C:\Users\Willian\source\repos\ExercicioThreads\ExercicioThreads\obj\Debug\net8.0\ref\ExercicioThreads.dll
